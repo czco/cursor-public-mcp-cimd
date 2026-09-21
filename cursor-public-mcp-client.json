@@ -1,5 +1,5 @@
 {
-  "client_id": "https://cdn.jsdelivr.net/gh/czco/cursor-public-mcp-cimd@main/cursor-public-mcp-client.json",
+  "client_id": "https://czco.github.io/cursor-public-mcp-cimd/cursor-public-mcp-client.json",
   "client_name": "Cursor IDE",
   "client_uri": "https://cursor.com",
   "redirect_uris": [
